@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "hash_map": "cpp",
+        "*.expression": "cpp",
+        "alignedvector3": "cpp",
+        "fft": "cpp",
+        "ostream": "cpp",
+        "complex": "cpp",
+        "iterator": "cpp",
+        "iostream": "cpp",
+        "core": "cpp",
+        "mprealsupport": "cpp",
+        "matrixfunctions": "cpp",
+        "*.tcc": "cpp",
+        "system_error": "cpp",
+        "random": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "ratio": "cpp",
+        "stdexcept": "cpp",
+        "streambuf": "cpp",
+        "functional": "cpp",
+        "vector": "cpp"
+    }
+}
